@@ -1,0 +1,7 @@
+0 .
+  101 sample.csv
+  103 r-novice-inflammation-data.zip
+ 1182 total
+    0 file.txt
+    0 file3.txt
+    0 inf_lengths3.txt
